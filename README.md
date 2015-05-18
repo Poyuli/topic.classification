@@ -1,4 +1,5 @@
 # topic.classification
+<<<<<<< HEAD
 
 Automated Topic Classification for News (Cross-validated data are upon request)
 
@@ -44,3 +45,6 @@ Titles are too short to bear accurate information for classification, so separat
 
 Including an additional bag-of-nouns in addition to original features does not improve accuracy
 
+=======
+Automated Topic Classification for News
+>>>>>>> 1b81ea6dc9c467779734b6167844f161845a5ecc
