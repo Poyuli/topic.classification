@@ -1,6 +1,7 @@
 # topic.classification
 
 Automated Topic Classification for News (Cross-validated data are upon request)
+Below are implemented models:
 
 # Naive Bayes Classifier
 
