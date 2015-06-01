@@ -1,6 +1,8 @@
 # topic.classification
 
-Automated Topic Classification for News (Performance benchmarks for different models are upon request)
+Automated Topic Classification for News
+
+Performance benchmarks for different models are upon request.
 
 Below are observations of different implemented models:
 
